@@ -7,6 +7,11 @@ nodejs文件上传模块
 npm install mill-upload-fornode --save
 
 ```
+## 表单设置
+
+```
+<form action="/uploada" enctype="multipart/form-data" method="post">
+```
 
 ## 提供两种使用方式
 
