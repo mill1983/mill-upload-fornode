@@ -1,0 +1,28 @@
+{
+  "name": "mill-upload-fornode",
+  "version": "1.0.0",
+  "description": "nodejs文件上传模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mill1983/mill-upload-fornode.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "node",
+    "mill"
+  ],
+  "author": "mill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mill1983/mill-upload-fornode/issues"
+  },
+  "homepage": "https://github.com/mill1983/mill-upload-fornode#readme",
+  "dependencies": {
+    "multiparty": "^4.1.3"
+  }
+}
